@@ -76,6 +76,7 @@ body {
 .title {
   max-width: 500px;
   margin: 0 auto;
+  transition: all 0.5s ease-in-out;
 }
 
 .header__wrapper {
@@ -253,22 +254,11 @@ a {
   color: white;
 }
 
-@media (max-width: 1000px) {
-  .logo {
-    max-width: 270px;
-  }
-
-  .dates {
-    max-width: 230px;
-  }
-
-  .wrapper {
-    height: 80vh;
-  }
-}
-
 @media (max-width: 603px) {
   button {
     margin-top: 10px;
+  }
+  .title {
+    max-width: 300px;
   }
 }
