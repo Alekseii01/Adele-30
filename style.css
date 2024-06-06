@@ -131,8 +131,11 @@ img {
 }
 
 .content {
-  margin: 20px 0;
   margin: 0 auto;
+}
+
+.content.low {
+  margin-top: 55px;
 }
 
 .content-list {
