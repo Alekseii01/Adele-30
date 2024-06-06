@@ -21,4 +21,4 @@ Interactive Elements: Hover effects and buttons that enhance user interaction.
 • HTML5: For the structure of the website.
 • CSS: For styling and layout, including responsive design.
 • Font Awesome: For social media icons.
- •Google Fonts: For custom fonts (Raleway).
+• Google Fonts: For custom fonts (Raleway).
