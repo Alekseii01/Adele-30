@@ -11,14 +11,14 @@ The website is designed to promote Adele's album "30" with a visually appealing 
 
 ## Features
 
-Responsive Design: The layout adapts to different screen sizes, ensuring a good user experience on both desktop and mobile devices.
-Media Integration: Embedded YouTube videos for selected tracks from the album.
-Social Media Links: Quick access to Adele's Twitter, Instagram, Facebook, and YouTube profiles.
-Interactive Elements: Hover effects and buttons that enhance user interaction.
+- Responsive Design: The layout adapts to different screen sizes, ensuring a good user experience on both desktop and mobile devices.
+- Media Integration: Embedded YouTube videos for selected tracks from the album.
+- Social Media Links: Quick access to Adele's Twitter, Instagram, Facebook, and YouTube profiles.
+- Interactive Elements: Hover effects and buttons that enhance user interaction.
 
 ## Technologies Used
 
-• HTML5: For the structure of the website.
-• CSS: For styling and layout, including responsive design.
-• Font Awesome: For social media icons.
-• Google Fonts: For custom fonts (Raleway).
+- HTML5: For the structure of the website.
+- CSS: For styling and layout, including responsive design.
+- Font Awesome: For social media icons.
+- Google Fonts: For custom fonts (Raleway).
